@@ -1,0 +1,10 @@
+[project]
+name = "bookbot"
+version = "0.1.0"
+description = "Simple Book Analyzer Written in Python"
+readme = "README.md"
+authors = [
+    { name = "Geomar Abreu", email = "geomarac64@proton.me" }
+]
+requires-python = ">=3.14"
+dependencies = []
